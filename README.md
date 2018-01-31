@@ -3,14 +3,14 @@ RoundLayout
 
 圆角布局
 
-<code>
+<pre><code>
 <com.prohua.roundlayout.RoundAngleFrameLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:radius="15dp">
         ...todo
 </com.prohua.roundlayout.RoundAngleFrameLayout>
-</code>
+</code></pre>
 
 How to
 
