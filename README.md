@@ -3,14 +3,15 @@ RoundLayout
 
 圆角布局
 
-<pre><code>
-&lt;com.prohua.roundlayout.RoundAngleFrameLayout
+<pre><code>&lt;com.prohua.roundlayout.RoundAngleFrameLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:radius="15dp"&gt;
         ...todo
 &lt;/com.prohua.roundlayout.RoundAngleFrameLayout&gt;
 </code></pre>
+
+*** radius 圆角半径 单位dp
 
 How to
 
