@@ -11,9 +11,7 @@ RoundLayout
 &lt;/com.prohua.roundlayout.RoundAngleFrameLayout&gt;
 </code></pre>
 
-### radius 圆角半径 单位dp
-
-使用方法
+### 参数 radius 圆角半径 单位dp
 
 ## How to
 
