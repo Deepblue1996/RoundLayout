@@ -1,7 +1,7 @@
 # RoundLayout
 RoundLayout
 
-圆角布局
+Xml圆角布局
 
 <pre><code>&lt;com.prohua.roundlayout.RoundAngleFrameLayout
         android:layout_width="wrap_content"
