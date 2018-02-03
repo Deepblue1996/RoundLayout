@@ -13,6 +13,8 @@ XML 圆角布局
 
 ### 参数 radius 圆角半径 单位dp
 
+![Image text](https://raw.githubusercontent.com/Deepblue1996/RoundLayout/master/Screenshot_2018-02-03-16-11-42.png)
+
 ## How to
 
 To get a Git project into your build:
