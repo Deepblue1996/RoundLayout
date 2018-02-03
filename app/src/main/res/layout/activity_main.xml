@@ -4,20 +4,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:gravity="center"
+    android:background="#000"
     android:layout_height="match_parent"
     tools:context="com.prohua.roundangleframelayout.MainActivity">
 
     <com.prohua.roundlayout.RoundAngleFrameLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:radius="15dp">
+        app:radius="20dp">
 
-        <LinearLayout
-            android:layout_width="100dp"
-            android:layout_height="100dp"
-            android:background="#009B4C">
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@mipmap/img">
 
-        </LinearLayout>
+        </ImageView>
     </com.prohua.roundlayout.RoundAngleFrameLayout>
 
 </LinearLayout>
