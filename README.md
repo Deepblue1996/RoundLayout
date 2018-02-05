@@ -12,6 +12,7 @@ XML 圆角布局
 </code></pre>
 
 ### 参数 radius 圆角半径 单位dp
+Parameter circle radius unit DP
 
 ![Image text](https://raw.githubusercontent.com/Deepblue1996/RoundLayout/master/20180203162130.jpg)
 
